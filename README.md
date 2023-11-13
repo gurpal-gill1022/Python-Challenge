@@ -1,6 +1,6 @@
 # Python Challenge: PyBank & PyPoll
 
-# Project Description
+## Project Description
 The purpose of this project is to create a python script that helps analyze the data of two datsets: bank budget data & election poll data. 
 
 For the bank budget data, the following values were retrieved from the script:
@@ -17,7 +17,7 @@ For the election poll data, the following values were retrieved from the script:
 - Total number of votes each candidate won
 - Winner of each election based on popular vote
 
-# Files
+## Files
 1. PyBank Folder
     - Python Script
     - Analysis Results
@@ -27,6 +27,11 @@ For the election poll data, the following values were retrieved from the script:
     - Python Script
     - Analysis Results
     - Election Poll Dataset
+
+## Dependencies/Programs
+1. Python
+2. Visual Studio Code
+3. Imported os and csv modules
 
 
  
